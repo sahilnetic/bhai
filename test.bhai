@@ -1,0 +1,19 @@
+hi bhai
+// Justice For The Stag
+// by twiiter:@sahilnetic
+
+bhai ye hai killer = "Selmon";
+bhai ye hai money;
+bhai ye hai justice;
+
+agar bhai (money = sahi){
+    killer = "Selmon's driver";
+    bol bhai "killer is " + killer;
+}nahi to bhai(justice){
+  bol bhai "killer is " + killer;
+}warna bhai{
+    bol bhai killer;
+}
+
+
+bye bhai
